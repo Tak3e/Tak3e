@@ -1,1 +1,1 @@
-node updater.js ${{tak3e}} atom
+node updater.js ${{ github.repository_owner }} atom
